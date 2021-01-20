@@ -3,7 +3,7 @@ module.exports = toxic = () => {
         'babi',
         'monyet',
         'anjing',
-        'Pendo'',
+        'Pendo',
         'Puki',
         'kontol',
         'tempik',
